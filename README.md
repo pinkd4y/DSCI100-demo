@@ -1,2 +1,2 @@
-# dsci-100-project_template
+# Welcome
 This is a demo repository for DSCI 100
