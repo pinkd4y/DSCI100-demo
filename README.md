@@ -1,6 +1,2 @@
 # Welcome
-This is a demo repository for DSCI 100
-
-Second line that's been added locally
-
-Line added on Github, not had locally!
+This repository includes the project notebook and data files. It also shows the steps I took in order to build up the analysis!
